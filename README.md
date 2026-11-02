@@ -13,7 +13,7 @@ Toulouse, France
 
 </div>
 
-Liam Seddaoui is an AI Platform Engineer (LLMOps) based in Toulouse, France. He deploys and operates LLMs and AI agents in production, on-premise and in the cloud: model serving with vLLM, Kubernetes, monitoring, and tool integration through MCP.
+Liam Seddaoui is an AI Infrastructure SRE (LLMOps) based in Toulouse, France. He deploys and operates LLMs and AI agents in production, on-premise and in the cloud: model serving with vLLM, Kubernetes, monitoring, and tool integration through MCP.
 
 ### Focus
 
