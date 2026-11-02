@@ -2,7 +2,7 @@
 
 # Liam Seddaoui
 
-**AI Platform Engineer · LLMOps · Agents · Build & Run**
+**AI Infrastructure SRE · LLMOps · Agents · Build & Run**
 
 Toulouse, France
 
